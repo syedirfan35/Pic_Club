@@ -1,0 +1,2 @@
+.input-field input:focus+label{color:#7c4dff!important}.row .input-field input:focus{border-bottom:1px solid #7c4dff!important;box-shadow:0 1px 0 0 #7c4dff!important}#img-grid{display:grid;grid-template-columns:repeat(3,1fr);grid-gap:2em}@media only screen and (max-width:800px){#img-grid{display:grid;grid-template-columns:repeat(2,1fr)}}@media only screen and (max-width:600px){#img-grid{display:grid;grid-template-columns:repeat(1,1fr)}}
+/*# sourceMappingURL=main.075cc1c0.chunk.css.map */
